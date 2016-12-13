@@ -30,8 +30,8 @@
 
 
 //Twitter SDK
-#define TwitterConsumerKey @"jTFTz5hSdeFnSxnXtC3HVARpv"
-#define TwitterSecretKey @"miKcWhevk62kO6KR4QBIRhGasCAVpVj2KyRJUUgnIPRRa5w86x"
+#define TwitterConsumerKey @"jTFTz5hSdeFnSxnXtC3fdfHVARpv"
+#define TwitterSecretKey @"miKcWhevk62kO6KR4QBIRhGasCAVpVj2KyRJUUgnIPRfdfRa5w86x"
 #define TwitterGetUserInfoURL @"https://api.twitter.com/1.1/users/show.json"
 
 #endif /* AppHelper_h */
@@ -39,7 +39,7 @@
 #define DeviceType @"2"
 
 //Base Url
-#define BaseUrl @"http://192.168.4.29/asselExpress/public/index.php/api/"
+#define BaseUrl @"your base url"
 
 //Post Url
 #define UrlLogin BaseUrl@"login"
